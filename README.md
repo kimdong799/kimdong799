@@ -6,7 +6,7 @@
 #### Major in Management Information System at MyongJi Univ (2016~)
 #### Data Analytics study in COIN (2017~)
 #### 인공지능을 활용한 주가예측-정보통신산업진흥원 (2020.09 ~ 2020.12)
-#### (3위) SNS데이터를 통한 명지인의 포스트 코로나 심리 분석
+#### :trophy:(3위) SNS데이터를 통한 명지인의 포스트 코로나 심리 분석
 
 <!--
 **kimdong799/kimdong799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
