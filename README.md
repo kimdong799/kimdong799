@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/SAP-576EE2?style=flat-square&logo=SAP&logoColor=white"/></a> &nbsp 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdong799&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdong799&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdong799&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
