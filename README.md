@@ -36,6 +36,5 @@ Here are some ideas to get you started:
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 <img src="https://img.shields.io/badge/SAP-576EE2?style=flat-square&logo=SAP&logoColor=white"/></a> &nbsp 
 
-<p align="center">
-  
+<p align="center">&nbsp
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdong799&show_icons=true&theme=tokyonight)
