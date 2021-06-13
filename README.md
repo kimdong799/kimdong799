@@ -4,7 +4,7 @@
 
 
 #### Major in Management Information System at MyongJi Univ (2016~)
-#### Data Analytics study in COIN (2017 ~ )
+#### Data Analytics study in COIN (2020 ~ )
 #### SAP ERP study in MJU (2021 ~ )
 #### 인공지능을 활용한 주가예측-정보통신산업진흥원 (2020.09 ~ 2020.12)
 #### :trophy:(3위) SNS데이터를 통한 명지인의 포스트 코로나 심리 분석 및 적합 상담프로그램 도출
