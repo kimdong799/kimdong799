@@ -1,6 +1,6 @@
 # DONGHYEON KIM
 
-### 보물섬을 찾아 항해하는 데이터 분석가 김동현입니다. 👋
+
 
 
 #### Major in Management Information System at MyongJi Univ (2016~)
