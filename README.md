@@ -2,11 +2,11 @@
 
 
 
-
-#### Major in Management Information System at MyongJi Univ (2016 ~ 2022)
-#### Data Analytics study in COIN (2020 ~ 2021)
-#### SAP ERP study in MJU (2021)
-#### :trophy: Post-corona psychological analysis of Students through SNS data and deduction of appropriate counseling program
+### 🤖Process Automation Engineer
+<!-- #### Major in Management Information System at MyongJi Univ (2016 ~ 2022) -->
+<!-- #### Data Analytics study in COIN (2020 ~ 2021) -->
+<!-- #### SAP ERP study in MJU (2021) -->
+<!-- #### :trophy: Post-corona psychological analysis of Students through SNS data and deduction of appropriate counseling program -->
 
 <!--
 **kimdong799/kimdong799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
