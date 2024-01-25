@@ -16,12 +16,14 @@
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-408294?style=flat-square&logo=Java&logoColor=blue"/></a> &nbsp
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/-C%23-512BD4?logo=Csharp&style=flat"/></a> &nbsp
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"/></a> &nbsp
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/UiPath-0075f4.svg?style=flat-square&logo=probot&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/django-092E20.svg?style=flat-square&logo=django&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=Tensorflow&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logo=Power%20BI&logoColor=white"/></a> 
 </p>
