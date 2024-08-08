@@ -29,7 +29,10 @@
 <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat-square&logo=LangChain&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logo=Power%20BI&logoColor=white"/></a> &nbsp
 </p>
+<p>
 <img src="https://img.shields.io/badge/Aparche Airflow-%23017CEE.svg?style=flat-square&logo=Apache Airflow&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat-square&logo=Selenium&logoColor=white"/></a> &nbsp
+</p>
 </br>
 
 <div> 
